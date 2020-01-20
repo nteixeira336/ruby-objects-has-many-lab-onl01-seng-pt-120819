@@ -26,10 +26,7 @@ class Artist
     @songs 
   end 
   
-  @@all= []
-  def self.all
-    @@all 
-  end 
+
   
   def self.song_count
     @@song_count
