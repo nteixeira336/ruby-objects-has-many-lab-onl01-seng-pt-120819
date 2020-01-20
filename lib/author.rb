@@ -1,6 +1,6 @@
 class Author  
   attr_accessor :name 
-  Post= post.new 
+  Post= self  
   @@post_count= 0 
   
   def initialize (name)
